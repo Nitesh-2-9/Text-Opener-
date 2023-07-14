@@ -32,7 +32,7 @@ function App() {
       <div className="main-p"></div>
       <div id="main">
         <div id="top">
-          <h1 id="top-h1">GRAVITY</h1>
+          <h1 id="top-h1">PROJECTS</h1>
         </div>
         <div id="center">
           <div class="content">
@@ -48,7 +48,7 @@ function App() {
           </div>
         </div>
         <div id="bottom">
-          <h1 id="bottom-h1">GRAVITY</h1>
+          <h1 id="bottom-h1">PROJECTS</h1>
         </div>
       </div>
     </Fragment>
